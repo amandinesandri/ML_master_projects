@@ -1,4 +1,4 @@
-# Machine Learning - Master2 - About this project
+# Machine Learning - Master2 - About those projects
 
 The aim of those project is to explore various data sets downloadable from the [Machine Learning Repository](http://archive.
 ics.uci.edu/ml/index.php).
@@ -9,6 +9,7 @@ pandas
 scipy
 matplotlib
 statsmodels
+graphviz
 ...
 
 
@@ -16,7 +17,4 @@ Some popular ML methods, (supervised and unsupervised learning methods) such as 
 
 # Some exemples of results
 
-![Flowchart](https://docs.google.com/drawings/d/14Cs5iPMS-Z0vcLpsSVie-r3-KFr1PyowFp3akx_Seuk/export/png)
-
-![Flowchart](https://docs.google.com/drawings/d/1QtJI3bWGgn3PLK5nTrLXih2F6LsaX6BcbD77oNbhQek/export/png)
-
+![Flowchart](https://docs.google.com/drawings/d/18ULx2-owp9DKU5f8SuY7kVg0Ow_yRpXEpDnWrh0oy-4/export/png)
