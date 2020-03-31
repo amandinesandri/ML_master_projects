@@ -18,3 +18,4 @@ Some popular ML methods, (supervised and unsupervised learning methods) such as 
 # Some exemples of results
 
 ![Flowchart](https://docs.google.com/drawings/d/18ULx2-owp9DKU5f8SuY7kVg0Ow_yRpXEpDnWrh0oy-4/export/png)
+
