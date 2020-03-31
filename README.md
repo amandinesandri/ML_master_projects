@@ -3,12 +3,12 @@
 The aim of those project is to explore various data sets downloadable from the [Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php).
 
 We mainly use Python and the following packages through [scikit-learn](https://scikit-learn.org/stable/) tool:
-- numpy\
-- pandas\
-- scipy\
-- matplotlib\
-- statsmodels\
-- graphviz\
+- numpy
+- pandas
+- scipy
+- matplotlib
+- statsmodels
+- graphviz
 ...
 
 
